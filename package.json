@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-tests",
+  "version": "0.1.1",
+  "description": "A hello world app to test other stuff",
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanjo-vlc/nodejs-tests.git"
+  },
+  "keywords": [
+    "nodejs",
+    "tests"
+  ],
+  "author": "Juanjo Garcia",
+  "bugs": {
+    "url": "https://github.com/juanjo-vlc/nodejs-tests/issues"
+  },
+  "homepage": "https://github.com/juanjo-vlc/nodejs-tests#readme"
+}
