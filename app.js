@@ -1,6 +1,6 @@
 const http = require('http');
 
-const version = "0.1.1"
+const version = "0.1.2"
 const hostname = '0.0.0.0';
 const port = 3000;
 
